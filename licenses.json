@@ -34,5 +34,15 @@
         ]
       }
     ]
+  },
+  "mp_store_boosted_car": {
+    "customers": [
+      {
+        "id": "CUST_001",
+        "ips": [
+          "82.102.214.123"
+        ]
+      }
+    ]
   }
 }
