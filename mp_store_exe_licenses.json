@@ -3,13 +3,6 @@
     "CLIENT_001": {
       "discord_id": "1067469740433494197",
       "hwid": "5F5EAF742147FA3250B3D2773067E55C",
-      "expires": "2027-01-01",
-      "active": true
-    },
-
-    "CLIENT_002": {
-      "discord_id": "987654321098765432",
-      "hwid": "XYZ987654321",
       "expires": "lifetime",
       "active": true
     }
