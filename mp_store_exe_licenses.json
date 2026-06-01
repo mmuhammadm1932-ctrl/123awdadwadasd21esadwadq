@@ -6,10 +6,10 @@
       "expires": "lifetime",
       "active": true
     },
-    "002": {
+    "001": {
       "discord_id": "1067469740433494197",
       "hwid": "D9F34765C81CE59438303200E39A4A73",
-      "expires": "lifetime",
+      "expires": "2026-01-01",
       "active": true
     }
   }
