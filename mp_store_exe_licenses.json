@@ -11,6 +11,12 @@
       "hwid": "291097247BC9BE9B1F97CAC14B82A056",
       "expires": "lifetime",
       "active": true
+    },
+    "001": {
+      "discord_id": "1067469740433494197",
+      "hwid": "D9F34765C81CE59438303200E39A4A73",
+      "expires": "lifetime",
+      "active": true
     }
   }
 }
