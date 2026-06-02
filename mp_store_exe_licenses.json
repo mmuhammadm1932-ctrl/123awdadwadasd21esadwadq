@@ -4,11 +4,11 @@
       "discord_id": "1067469740433494197",
       "hwid": "PUT_CUSTOMER_HWID_HERE",
       "expires": "lifetime",
-      "active": false
+      "active": true
     },
-    "mp-001": {
-      "discord_id": "1067469740433494197",
-      "hwid": "D9F34765C81CE59438303200E39A4A73",
+    "003": {
+      "discord_id": "990154803902554132",
+      "hwid": "291097247BC9BE9B1F97CAC14B82A056",
       "expires": "lifetime",
       "active": true
     }
