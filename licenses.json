@@ -19,6 +19,16 @@
       }
     ]
   },
+  "mp_store_vip_v2": {
+    "customers": [
+      {
+        "id": "CUST_001",
+        "ips": [
+          "82.102.214.253"
+        ]
+      }
+    ]
+  },
   "mp_store_admin_v1": {
     "customers": [
       {
