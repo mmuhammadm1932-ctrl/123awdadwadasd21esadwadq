@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-08T19:32:57.946Z",
+  "generatedAt": "2026-07-08T19:34:57.152Z",
   "customers": [
     {
       "id": "cbd43425-cebf-4cf3-a460-be68b3af4a9f",
       "discordId": "1067469740433494197",
       "displayName": "!                           𝖒𝖕",
-      "allowedIp": "115.166.130.173",
+      "allowedIp": "82.102.214.253",
       "active": true,
-      "updatedAt": "2026-07-08T19:32:57.449Z"
+      "updatedAt": "2026-07-08T19:34:56.542Z"
     }
   ],
   "products": [
