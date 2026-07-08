@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-07-08T19:08:48.061Z",
-  "customers": [],
+  "generatedAt": "2026-07-08T19:10:22.667Z",
+  "customers": [
+    {
+      "id": "cbd43425-cebf-4cf3-a460-be68b3af4a9f",
+      "discordId": "1067469740433494197",
+      "displayName": "!                           𝖒𝖕",
+      "allowedIp": "115.166.130.175",
+      "active": true,
+      "updatedAt": "2026-07-08T19:10:22.215Z"
+    }
+  ],
   "products": [
     {
       "id": "838e0720-d454-477c-a907-6a73dfac6e51",
