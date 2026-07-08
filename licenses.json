@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-07-08T18:31:11.101Z",
+  "generatedAt": "2026-07-08T19:08:48.061Z",
   "customers": [],
-  "products": [],
+  "products": [
+    {
+      "id": "838e0720-d454-477c-a907-6a73dfac6e51",
+      "slug": "mp_weaponshop",
+      "name": "سكربت متجر الاسلحة",
+      "resourceName": "mp_weaponshop",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1418269199943336037/1524492182919057518/mp_weaponshop.zip?ex=6a4ff17c&is=6a4e9ffc&hm=043c8be838353c284b7236a3f1a30e6577cebac011d12a5cabf9ab2ab29ab8eb&",
+      "active": true,
+      "updatedAt": "2026-07-08T19:08:47.435Z"
+    }
+  ],
   "licenses": []
 }
