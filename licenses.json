@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T19:10:22.667Z",
+  "generatedAt": "2026-07-08T19:10:45.251Z",
   "customers": [
     {
       "id": "cbd43425-cebf-4cf3-a460-be68b3af4a9f",
@@ -21,5 +21,14 @@
       "updatedAt": "2026-07-08T19:08:47.435Z"
     }
   ],
-  "licenses": []
+  "licenses": [
+    {
+      "id": "305a62ac-ce35-4bec-9a7f-572a5dc34423",
+      "customerId": "cbd43425-cebf-4cf3-a460-be68b3af4a9f",
+      "productId": "838e0720-d454-477c-a907-6a73dfac6e51",
+      "licenseKey": "MP-CC84-CACF",
+      "active": true,
+      "updatedAt": "2026-07-08T19:10:44.804Z"
+    }
+  ]
 }
