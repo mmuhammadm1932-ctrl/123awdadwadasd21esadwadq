@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T21:53:37.953Z",
+  "generatedAt": "2026-07-09T22:18:50.842Z",
   "customers": [
     {
       "id": "cbd43425-cebf-4cf3-a460-be68b3af4a9f",
@@ -8,6 +8,14 @@
       "allowedIp": "115.166.130.175",
       "active": true,
       "updatedAt": "2026-07-08T19:42:04.589Z"
+    },
+    {
+      "id": "ab63e262-39eb-4982-ad1c-b1aa9b3b684c",
+      "discordId": "990154803902554132",
+      "displayName": "!    Dr.       𝐀𝐁𝐎 𝐀𝐋𝟕𝐊𝐌",
+      "allowedIp": "89.190.158.26",
+      "active": true,
+      "updatedAt": "2026-07-09T22:18:50.120Z"
     }
   ],
   "products": [
