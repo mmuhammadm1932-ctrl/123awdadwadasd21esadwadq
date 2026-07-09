@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T22:18:50.842Z",
+  "generatedAt": "2026-07-09T22:19:14.576Z",
   "customers": [
     {
       "id": "cbd43425-cebf-4cf3-a460-be68b3af4a9f",
@@ -37,6 +37,14 @@
       "licenseKey": "MP-CC84-CACF",
       "active": true,
       "updatedAt": "2026-07-08T19:10:44.804Z"
+    },
+    {
+      "id": "7ffb8add-f8f7-4b7e-8dfc-28439f77477f",
+      "customerId": "ab63e262-39eb-4982-ad1c-b1aa9b3b684c",
+      "productId": "838e0720-d454-477c-a907-6a73dfac6e51",
+      "licenseKey": "MP-AF30-D88F",
+      "active": true,
+      "updatedAt": "2026-07-09T22:19:14.142Z"
     }
   ]
 }
