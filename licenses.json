@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T10:40:28.193Z",
+  "generatedAt": "2026-07-10T10:43:45.918Z",
   "customers": [
     {
       "id": "cbd43425-cebf-4cf3-a460-be68b3af4a9f",
@@ -27,6 +27,15 @@
       "downloadUrl": "https://cdn.discordapp.com/attachments/1467939466466431027/1524837992785510560/mp_weaponshop.zip?ex=6a51338b&is=6a4fe20b&hm=a70f124ebba9ba817a3dce015d998bce72f4de1546f36938391ef24948d3be6d&",
       "active": true,
       "updatedAt": "2026-07-09T18:02:40.174Z"
+    },
+    {
+      "id": "0db9b45d-a80d-4b0b-bfdb-fc9514985d30",
+      "slug": "1",
+      "name": "نظام الادارة",
+      "resourceName": "Mp_AdminSystem",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1467939466466431027/1525089860434788473/Mp_AdminSystem.zip?ex=6a521e1d&is=6a50cc9d&hm=b8f5d570f9bd5fc4c70d10f882ad2d3cd36d4ef25571d116bc3145fa9a0f9733&",
+      "active": true,
+      "updatedAt": "2026-07-10T10:43:45.290Z"
     }
   ],
   "licenses": [
