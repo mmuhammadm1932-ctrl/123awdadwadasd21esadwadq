@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-07-12T17:10:23.402Z",
-  "customers": [],
+  "generatedAt": "2026-07-12T17:10:50.489Z",
+  "customers": [
+    {
+      "id": "f6e4e459-8312-4165-b1dc-8ad80d0d6272",
+      "discordId": "1067469740433494197",
+      "displayName": "!                           𝖒𝖕",
+      "allowedIp": "115.166.130.175",
+      "active": true,
+      "runtimeLicenseKey": "MP-CC84-CACF",
+      "updatedAt": "2026-07-12T17:10:43.832Z"
+    }
+  ],
   "files": [],
   "licenses": []
 }
