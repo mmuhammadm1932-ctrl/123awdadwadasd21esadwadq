@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T17:11:46.296Z",
+  "generatedAt": "2026-07-12T17:11:48.808Z",
   "customers": [
     {
       "id": "f6e4e459-8312-4165-b1dc-8ad80d0d6272",
@@ -20,5 +20,15 @@
       "updatedAt": "2026-07-12T17:11:37.546Z"
     }
   ],
-  "licenses": []
+  "licenses": [
+    {
+      "id": "546910e9-c3fe-4457-a033-9feb637b23c9",
+      "customerId": "f6e4e459-8312-4165-b1dc-8ad80d0d6272",
+      "fileId": "56046aec-f3dc-48a9-906f-e69cf59a7104",
+      "licenseKey": "MP-CC84-CACF",
+      "allowedIp": "115.166.130.175",
+      "active": true,
+      "updatedAt": "2026-07-12T17:11:47.415Z"
+    }
+  ]
 }
