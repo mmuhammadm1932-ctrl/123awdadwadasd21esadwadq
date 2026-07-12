@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T16:31:29.793Z",
+  "generatedAt": "2026-07-12T16:31:32.275Z",
   "customers": [
     {
       "id": "f4ac6026-a2d9-485b-aae8-23e5debb2ce9",
@@ -18,5 +18,14 @@
       "updatedAt": "2026-07-12T16:30:57.186Z"
     }
   ],
-  "licenses": []
+  "licenses": [
+    {
+      "id": "b81d00af-f11d-49a5-b252-7396b0c47094",
+      "customerId": "f4ac6026-a2d9-485b-aae8-23e5debb2ce9",
+      "fileId": "77ef4a5f-b8ab-4201-a79d-c4e2977c5292",
+      "licenseKey": "MPF-ACB6-9C7D",
+      "active": true,
+      "updatedAt": "2026-07-12T16:31:26.233Z"
+    }
+  ]
 }
