@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T17:10:50.489Z",
+  "generatedAt": "2026-07-12T17:11:39.240Z",
   "customers": [
     {
       "id": "f6e4e459-8312-4165-b1dc-8ad80d0d6272",
@@ -11,6 +11,14 @@
       "updatedAt": "2026-07-12T17:10:43.832Z"
     }
   ],
-  "files": [],
+  "files": [
+    {
+      "id": "56046aec-f3dc-48a9-906f-e69cf59a7104",
+      "name": "MpFilesv1",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1446607979712483398/1525902207801626684/MpFilesv1.zip?ex=6a5512ac&is=6a53c12c&hm=1513299c288dfb335958bf0b9e78dd365c88c4dec55163f3c80ffde5f6d3dbfd&",
+      "active": true,
+      "updatedAt": "2026-07-12T17:11:37.546Z"
+    }
+  ],
   "licenses": []
 }
