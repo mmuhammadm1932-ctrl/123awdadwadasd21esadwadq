@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T19:33:35.534Z",
+  "generatedAt": "2026-07-13T19:34:01.152Z",
   "customers": [
     {
       "id": "f6e4e459-8312-4165-b1dc-8ad80d0d6272",
@@ -15,9 +15,9 @@
     {
       "id": "56046aec-f3dc-48a9-906f-e69cf59a7104",
       "name": "MpFilesv1",
-      "downloadUrl": "https://cdn.discordapp.com/attachments/1446607979712483398/1525902207801626684/MpFilesv1.zip?ex=6a5512ac&is=6a53c12c&hm=1513299c288dfb335958bf0b9e78dd365c88c4dec55163f3c80ffde5f6d3dbfd&",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1446607979712483398/1525902207801626684/MpFilesv1.zip?ex=6a56642c&is=6a5512ac&hm=98d7e330c0fb6ad0fb7670ca36953fc7c1f1bc8144e93127526cb408d6593a7f&",
       "active": true,
-      "updatedAt": "2026-07-12T17:11:37.546Z"
+      "updatedAt": "2026-07-13T19:33:59.720Z"
     }
   ],
   "licenses": [
