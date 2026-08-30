@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-30T17:51:22.413Z",
+  "generatedAt": "2026-08-30T17:55:05.677Z",
   "customers": [
     {
       "id": "cbd43425-cebf-4cf3-a460-be68b3af4a9f",
       "discordId": "1067469740433494197",
       "displayName": "!                           𝖒𝖕",
-      "allowedIp": "46.60.106.89",
+      "allowedIp": "82.102.226.141",
       "active": true,
-      "updatedAt": "2026-08-28T18:31:46.017Z"
+      "updatedAt": "2026-08-30T17:55:05.674Z"
     },
     {
       "id": "ab63e262-39eb-4982-ad1c-b1aa9b3b684c",
