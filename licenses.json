@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T18:54:30.882Z",
+  "generatedAt": "2026-08-30T18:54:57.485Z",
   "customers": [
     {
       "id": "cbd43425-cebf-4cf3-a460-be68b3af4a9f",
@@ -104,6 +104,16 @@
       "hidden": true,
       "licenseType": "files_runtime",
       "updatedAt": "2026-08-30T17:51:22.411Z"
+    },
+    {
+      "id": "0beebd03-e307-4cb6-8017-0e58effe8225",
+      "customerId": "cbd43425-cebf-4cf3-a460-be68b3af4a9f",
+      "productId": "23cc9fe4-f3dd-4cd6-81b8-f7b3370409df",
+      "licenseKey": "MP-35CD-F217",
+      "active": true,
+      "hidden": false,
+      "licenseType": "product",
+      "updatedAt": "2026-08-30T18:54:57.483Z"
     }
   ]
 }
