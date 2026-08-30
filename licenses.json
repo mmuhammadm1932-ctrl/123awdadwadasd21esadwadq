@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T18:54:57.485Z",
+  "generatedAt": "2026-08-30T19:23:57.770Z",
   "customers": [
     {
       "id": "cbd43425-cebf-4cf3-a460-be68b3af4a9f",
@@ -51,17 +51,6 @@
       "hidden": true,
       "systemType": "files_runtime",
       "updatedAt": "2026-08-30T17:51:22.411Z"
-    },
-    {
-      "id": "23cc9fe4-f3dd-4cd6-81b8-f7b3370409df",
-      "slug": "MP_Cinema",
-      "name": "MP Cinema",
-      "resourceName": "MP_Cinema",
-      "downloadUrl": "https://cdn.discordapp.com/attachments/1446581569148948581/1543695349581877278/MP_Cinema.zip?ex=6a95cdd3&is=6a947c53&hm=813c4a4f0f2423a944a40d4bb80e66f82734511159429139733e77240bf72920&",
-      "active": true,
-      "hidden": false,
-      "systemType": null,
-      "updatedAt": "2026-08-30T18:54:30.879Z"
     }
   ],
   "licenses": [
@@ -104,16 +93,6 @@
       "hidden": true,
       "licenseType": "files_runtime",
       "updatedAt": "2026-08-30T17:51:22.411Z"
-    },
-    {
-      "id": "0beebd03-e307-4cb6-8017-0e58effe8225",
-      "customerId": "cbd43425-cebf-4cf3-a460-be68b3af4a9f",
-      "productId": "23cc9fe4-f3dd-4cd6-81b8-f7b3370409df",
-      "licenseKey": "MP-35CD-F217",
-      "active": true,
-      "hidden": false,
-      "licenseType": "product",
-      "updatedAt": "2026-08-30T18:54:57.483Z"
     }
   ]
 }
