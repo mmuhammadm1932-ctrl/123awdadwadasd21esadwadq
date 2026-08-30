@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T19:33:06.636Z",
+  "generatedAt": "2026-08-30T19:33:26.879Z",
   "customers": [
     {
       "id": "cbd43425-cebf-4cf3-a460-be68b3af4a9f",
@@ -104,6 +104,16 @@
       "hidden": true,
       "licenseType": "files_runtime",
       "updatedAt": "2026-08-30T17:51:22.411Z"
+    },
+    {
+      "id": "a266eea3-be4c-4a98-871d-2441b2a6759d",
+      "customerId": "cbd43425-cebf-4cf3-a460-be68b3af4a9f",
+      "productId": "79410a27-0ac2-4ee9-aa04-13b94c36b692",
+      "licenseKey": "MP-D545-F9CD",
+      "active": true,
+      "hidden": false,
+      "licenseType": "product",
+      "updatedAt": "2026-08-30T19:33:26.876Z"
     }
   ]
 }
