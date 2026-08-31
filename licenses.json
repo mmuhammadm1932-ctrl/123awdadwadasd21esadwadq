@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T18:41:42.858Z",
+  "generatedAt": "2026-08-31T18:41:52.305Z",
   "customers": [
     {
       "id": "cbd43425-cebf-4cf3-a460-be68b3af4a9f",
@@ -50,7 +50,7 @@
       "active": true,
       "hidden": true,
       "systemType": "files_runtime",
-      "updatedAt": "2026-08-31T18:41:42.856Z"
+      "updatedAt": "2026-08-31T18:41:52.303Z"
     },
     {
       "id": "79410a27-0ac2-4ee9-aa04-13b94c36b692",
@@ -100,10 +100,10 @@
       "customerId": "cbd43425-cebf-4cf3-a460-be68b3af4a9f",
       "productId": "dc482132-d6fb-447d-bbd3-bbd4587d7603",
       "licenseKey": "MPFILES-RUN-B43E-7BC2-C73A",
-      "active": false,
+      "active": true,
       "hidden": true,
       "licenseType": "files_runtime",
-      "updatedAt": "2026-08-31T18:41:42.856Z"
+      "updatedAt": "2026-08-31T18:41:52.303Z"
     },
     {
       "id": "a266eea3-be4c-4a98-871d-2441b2a6759d",
