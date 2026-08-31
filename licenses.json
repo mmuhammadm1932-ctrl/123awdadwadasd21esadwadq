@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-31T18:37:59.939Z",
+  "generatedAt": "2026-08-31T18:39:12.336Z",
   "customers": [
     {
       "id": "cbd43425-cebf-4cf3-a460-be68b3af4a9f",
       "discordId": "1067469740433494197",
       "displayName": "!                           𝖒𝖕",
-      "allowedIp": "26.75.91.62",
+      "allowedIp": "82.102.226.141",
       "active": true,
-      "updatedAt": "2026-08-28T18:25:46.969Z"
+      "updatedAt": "2026-08-30T17:55:05.674Z"
     },
     {
       "id": "ab63e262-39eb-4982-ad1c-b1aa9b3b684c",
@@ -26,6 +26,8 @@
       "resourceName": "mp_weaponshop",
       "downloadUrl": "https://cdn.discordapp.com/attachments/1467939466466431027/1524837992785510560/mp_weaponshop.zip?ex=6a51338b&is=6a4fe20b&hm=a70f124ebba9ba817a3dce015d998bce72f4de1546f36938391ef24948d3be6d&",
       "active": true,
+      "hidden": false,
+      "systemType": null,
       "updatedAt": "2026-07-09T18:02:40.174Z"
     },
     {
@@ -35,7 +37,31 @@
       "resourceName": "Mp_AdminSystem",
       "downloadUrl": "https://cdn.discordapp.com/attachments/1467939466466431027/1525089860434788473/Mp_AdminSystem.zip?ex=6a521e1d&is=6a50cc9d&hm=b8f5d570f9bd5fc4c70d10f882ad2d3cd36d4ef25571d116bc3145fa9a0f9733&",
       "active": true,
+      "hidden": false,
+      "systemType": null,
       "updatedAt": "2026-07-10T10:43:45.290Z"
+    },
+    {
+      "id": "dc482132-d6fb-447d-bbd3-bbd4587d7603",
+      "slug": "MpFilesv1",
+      "name": "MP Files Runtime License",
+      "resourceName": "vrp",
+      "downloadUrl": "",
+      "active": true,
+      "hidden": true,
+      "systemType": "files_runtime",
+      "updatedAt": "2026-08-31T18:39:12.334Z"
+    },
+    {
+      "id": "79410a27-0ac2-4ee9-aa04-13b94c36b692",
+      "slug": "MP_Cinema",
+      "name": "سكربت السنما",
+      "resourceName": "MP_Cinema",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1446581569148948581/1543704876545220718/MP_Cinema.zip?ex=6a95d6b3&is=6a948533&hm=805383fec6f826ba6f10caed8de768e1161e73c1589373f215e7b3872a2f6a97&",
+      "active": true,
+      "hidden": false,
+      "systemType": null,
+      "updatedAt": "2026-08-30T19:33:06.634Z"
     }
   ],
   "licenses": [
@@ -45,6 +71,8 @@
       "productId": "838e0720-d454-477c-a907-6a73dfac6e51",
       "licenseKey": "MP-CC84-CACF",
       "active": true,
+      "hidden": false,
+      "licenseType": "product",
       "updatedAt": "2026-07-08T19:10:44.804Z"
     },
     {
@@ -53,6 +81,8 @@
       "productId": "838e0720-d454-477c-a907-6a73dfac6e51",
       "licenseKey": "MP-AF30-D88F",
       "active": true,
+      "hidden": false,
+      "licenseType": "product",
       "updatedAt": "2026-07-09T22:19:14.142Z"
     },
     {
@@ -61,7 +91,29 @@
       "productId": "0db9b45d-a80d-4b0b-bfdb-fc9514985d30",
       "licenseKey": "MP-5845-85B1",
       "active": true,
+      "hidden": false,
+      "licenseType": "product",
       "updatedAt": "2026-07-10T10:44:09.628Z"
+    },
+    {
+      "id": "9149ba54-98ea-4f00-a2c8-d0b95bc95535",
+      "customerId": "cbd43425-cebf-4cf3-a460-be68b3af4a9f",
+      "productId": "dc482132-d6fb-447d-bbd3-bbd4587d7603",
+      "licenseKey": "MPFILES-RUN-B43E-7BC2-C73A",
+      "active": true,
+      "hidden": true,
+      "licenseType": "files_runtime",
+      "updatedAt": "2026-08-31T18:39:12.334Z"
+    },
+    {
+      "id": "a266eea3-be4c-4a98-871d-2441b2a6759d",
+      "customerId": "cbd43425-cebf-4cf3-a460-be68b3af4a9f",
+      "productId": "79410a27-0ac2-4ee9-aa04-13b94c36b692",
+      "licenseKey": "MP-D545-F9CD",
+      "active": true,
+      "hidden": false,
+      "licenseType": "product",
+      "updatedAt": "2026-08-30T19:33:26.876Z"
     }
   ]
 }
